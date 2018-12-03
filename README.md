@@ -1,0 +1,2 @@
+# Interactive-tree-shrub-map-of-NIIT-Universit
+A GIS and Java based desktop application having a map of all the important trees and shrubs in NIIT University.Our application users can get to know about various plants in our university like their location, names, scientific names, significance, uses, timeline.This application will have a decent and responsive user interface with popups for each and every tree and plant. These pop ups contain all information regarding that specific tree or plant.
